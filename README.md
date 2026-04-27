@@ -1,5 +1,5 @@
 Linux-learning
-My linux journey 🚀
+My linux journey
 
  Day 1
 
