@@ -1,7 +1,9 @@
-# Linux-learning
-My linux journey
+Linux-learning
+My linux journey 🚀
 
-## Day 1
+ Day 1
+
+ Commands Learned
 
 - pwd → shows current directory
 - ls → list files
